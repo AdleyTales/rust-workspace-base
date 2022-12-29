@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "zap",
+  "zap-add",
+  "zap-reduce"
+]
